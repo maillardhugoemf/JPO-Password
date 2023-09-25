@@ -1,7 +1,7 @@
 import java.util.Base64;
 
 public class Activity3 {
-   public static final String PASSWORD = "YnJhdjA";
+   public static final String PASSWORD = "bTBsZHU=";
     public static final char[] CHARACTERS = new char[]{'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
     public static final int MAXCHAR = 5;
 
